@@ -6,6 +6,8 @@ Soundbyte is a simple and fun music app that lets you create your own custom pla
 ## How to Install it And Use it
 1.Download The source code found in Github repositories 2.Import it to your Android studio file folder 3.open Android Studio and open the file 4.Run the code on a emulator in Android Studio 5. Enter Your Favorite Songs 6. Once Your Done Adding All Your Favorite Songs Press the Add Button 7. Press The Next Button To Travel To Your Playlist 8. Press The Show Button To Display Your Playlist 9. after Reviewing Your Playlist Press The Avg Rating Button to the see the average ratings 10. after that you can either Exit The App or go back to the main menu by the use of The Exit Button And The Menu Button 
 ## User Interface 
+![image](https://github.com/user-attachments/assets/3f679745-637e-4f3b-9bcc-f2c87fd17f87)
+![image](https://github.com/user-attachments/assets/82e99bcf-3723-4878-8fb1-959c147082bc)
 ## Features 
 📱 First Screen: Playlist Input Screen
 This is where users can enter their favorite songs and manage their playlist.
