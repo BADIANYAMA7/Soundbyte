@@ -63,4 +63,5 @@ A: Currently, Soundbyte only stores your playlist temporarily during the session
 ## Github Repositories
 # Explanation and Showcase
 ![image](https://github.com/user-attachments/assets/1962bdde-9dc0-463f-a641-596d58c58140)
+![image](https://github.com/user-attachments/assets/47447804-a954-47e4-9858-17c03300e6b8)
 
