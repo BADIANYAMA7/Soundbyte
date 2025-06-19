@@ -74,7 +74,7 @@
         android:background="@android:drawable/alert_light_frame"
         android:ems="10"
         android:hint="E.g Rating(1-5)"
-        android:inputType="text"
+        android:inputType="number"
         android:textSize="20sp"
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toTopOf="@+id/Comments"

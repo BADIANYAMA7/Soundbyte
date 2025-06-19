@@ -33,10 +33,10 @@ class Playlists : AppCompatActivity() {
         ShowButton.setOnClickListener {
             Playlist.visibility= View.VISIBLE
             var Display=""
-            Display+="SongTitle=${SONGNAME.toString()}\n"
-            Display+="Artist Name=${ARTISTSNAME.toString()}\n"
-            Display+="Rating=${SONGRATING.toString()}\n"
-            Display+="Comments=${SONGCOMMENTS.toString()}\n"
+            Display+="SongTitle=${SONGNAME[Index]}\n"
+            Display+="Artist Name=${ARTISTSNAME[Index]}\n"
+            Display+="Rating=${SONGRATING[Index]}\n"
+            Display+="Comments=${SONGCOMMENTS[Index]}\n"
             Playlist.text=Display
             Index--
             if (Index==0){
