@@ -24,10 +24,12 @@ class Playlists : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_playlists)
         //Declaration
-        var Index=3
+        var Index=0
         var Playlist=findViewById<TextView>(R.id.Screen)
         var Backtomenu=findViewById<Button>(R.id.Menu)
         var ShowButton=findViewById<Button>(R.id.Show)
+        var Calculate=findViewById<Button>(R.id.AvgRate)
+        var AverageText=findViewById<TextView>(R.id.AverageText)
         var ExitButton=findViewById<Button>(R.id.Exit)
         //ALLOWS YOU TO DISPLAY YOUR PLAYLIST
         ShowButton.setOnClickListener {
@@ -38,9 +40,20 @@ class Playlists : AppCompatActivity() {
             Display+="Rating=${SONGRATING[Index]}\n"
             Display+="Comments=${SONGCOMMENTS[Index]}\n"
             Playlist.text=Display
-            Index--
-            if (Index==0){
+            Index++
+            if (Index==4){
                 ShowButton.visibility= View.GONE
+                Calculate.visibility= View.VISIBLE
+            }
+            // BUTTON TO CALCULATE THE AVERAGE RATINGS FOR ALL THE
+            Calculate.setOnClickListener {
+                AverageText.visibility= View.VISIBLE
+                var Number= SONGRATING.mapNotNull { it.toFloatOrNull() }
+                var Sum=Number.average()
+                AverageText.text="Average Rating=${Sum}"
+
+
+
             }
 
 
