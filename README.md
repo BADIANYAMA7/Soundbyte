@@ -67,4 +67,12 @@ A: Currently, Soundbyte only stores your playlist temporarily during the session
 ![image](https://github.com/user-attachments/assets/673c51d5-856e-4ab7-bfca-395f9dacf8ad)
 ![image](https://github.com/user-attachments/assets/9afcbf7d-d0dd-4e01-9645-9d95de9cc8ad)
 
+# Source Code
+![Screenshot 2025-06-19 114839](https://github.com/user-attachments/assets/78e02855-d727-48d0-be6a-6e5f943f0f9f)
+![Screenshot 2025-06-19 114859](https://github.com/user-attachments/assets/69b06ad0-3b08-4c5d-b4c9-7801ca9bf4b9)
+## Second Screen 
+![Screenshot 2025-06-19 115502](https://github.com/user-attachments/assets/1465aa09-d848-448e-959d-70013a1a1307)
+![Screenshot 2025-06-19 115517](https://github.com/user-attachments/assets/fedc6037-6daf-4023-8b89-d5474ddb1acf)
+![Screenshot 2025-06-19 115540](https://github.com/user-attachments/assets/1fe89395-746e-44ff-a986-5d22296c7b0f)
+
 
