@@ -61,3 +61,6 @@ A: Press the Exit button on the second screen to close the app completely.
 Q10: Will my playlist be saved after closing the app?
 A: Currently, Soundbyte only stores your playlist temporarily during the session. Once the app is closed, the playlist resets.(Will be Available in future update)
 ## Github Repositories
+# Explanation and Showcase
+![image](https://github.com/user-attachments/assets/1962bdde-9dc0-463f-a641-596d58c58140)
+
